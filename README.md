@@ -156,12 +156,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📞 Support
 
-If you have any questions or need support, please contact us at:
-- Email: hello@tanked.com
-- Website: www.tanked.com
 
----
-
-Built with ❤️ by the Tanked team
+Built with ❤️ by the Shekhar Maurya
